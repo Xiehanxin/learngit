@@ -7,4 +7,6 @@ C
 aaaaa
 add a new branch
 create a new branch
+<<<<<<< HEAD
 new
+
